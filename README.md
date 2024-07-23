@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/38959826/111804934-84c3c480-890b-11eb-802f-4983e8f3edc5.png" width="30%" height="30%">
+  <img src="https://i0.wp.com/news.qoo-app.com/en/wp-content/uploads/sites/3/2021/08/21081803014666.jpg?fit=718%2C410&ssl=1" width="30%" height="30%">
 </h1>
